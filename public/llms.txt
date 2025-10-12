@@ -1,0 +1,35 @@
+# Pinterest Marketing Tools Directory
+
+Comprehensive directory of Pinterest marketing software platforms and tools.
+
+## Overview
+
+This site provides detailed reviews and comparisons of 15 specialized Pinterest marketing tools:
+
+- BoardBooster - Intelligent Pin Distribution System
+- PinSaver - Content Archival & Repin Engine
+- ViralWoot - Growth Optimization Platform
+- PinPinterest Pro - Professional Design Suite
+- PinReacher - Audience Targeting Specialist
+- SchedulePin - Time Management Master
+- Pinalytics - Data Intelligence Platform (Featured)
+- GroupBoards Manager - Collaborative Board Optimizer
+- PinOptimizer - SEO Enhancement Engine
+- SmartPinner - AI-Powered Content Strategist (Featured)
+- PinMetrics Pro - ROI Tracking Specialist
+- PinEngager - Community Interaction Manager
+- BoardPlanner Elite - Strategic Board Architecture
+- PinTracker - Pin Performance Monitor
+- HashtagPin - Hashtag Strategy Platform
+
+## Purpose
+
+Help businesses and marketers select appropriate Pinterest marketing software based on their specific needs, budget, and technical requirements.
+
+## Features
+
+- Detailed tool comparisons
+- Pricing information
+- Feature analysis
+- Strategic selection guidance
+- SEO optimized content
