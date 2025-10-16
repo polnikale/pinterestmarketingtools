@@ -7,7 +7,8 @@ interface Props {
 
 const { title, description, ogImage = '/og-image.png' } = Astro.props
 const url = new URL(Astro.url.href)
-url.hostname = url.hostname.startsWith('www.') ? url.hostname : `www.${url.hostname}`
+// Remove www if present to normalize to non-www
+url.hostname = url.hostname.replace(/^www\\./, '')
 const canonicalURL = url.href
 ---
 
